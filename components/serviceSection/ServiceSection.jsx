@@ -1,4 +1,10 @@
-import React from 'react'
+import { layout } from "@/utils/Classnames";
+import React from "react";
+import telegram from "../../utils/images/telegram.jpg";
+import Image from "next/image";
+import check from "../../utils/svg/check.svg";
+import CourseSection from "@/global/CourseSection";
+
 
 const ServiceSection = () => {
   return (

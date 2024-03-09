@@ -28,23 +28,23 @@ const TelegramSection = () => {
       <p className="font-bold text-lg">DISCOVER THE SECRETS TO :</p>
       <div className="font-semibold space-y-2 mt-2 text-sm ">
         <Wrap>
-          <Image src={StockOptions} className="w-4" />
+          <Image src={StockOptions} className="w-4" alt="" />
           <p>Intraday Stock Options Calls</p>
         </Wrap>
         <Wrap>
-          <Image src={IndexOption} className="w-4" />
+          <Image src={IndexOption} className="w-4" alt="" />
           <p>Intraday Index Options Calls</p>
         </Wrap>
         <Wrap>
-          <Image src={JackpotCalls} className="w-4" />
+          <Image src={JackpotCalls} className="w-4" alt=""/>
           <p>Expiry Day Jackpot Calls</p>
         </Wrap>
         <Wrap>
-          <Image src={MarketNews} className="w-4" />
+          <Image src={MarketNews} className="w-4" alt="" />
           <p>Market News and Updates</p>
         </Wrap>
         <Wrap>
-          <Image src={LiveMarket} className="w-4" />
+          <Image src={LiveMarket} className="w-4" alt="" />
           <p>Live market Support</p>
         </Wrap>
       </div>{" "}

@@ -52,7 +52,7 @@ const KeyFeaturesSection = () => {
         into the real market.
       </p>
       <p className={inView ? "animate-pop-in-down leafBox-4" : "notVisible"}>
-        Lifetime Access: Once you enroll in a course, you'll have lifetime
+        Lifetime Access: Once you enroll in a course, you all have lifetime
         access to the content and any future updates. Keep your knowledge
         up-to-date with the ever-changing market trends.
       </p>

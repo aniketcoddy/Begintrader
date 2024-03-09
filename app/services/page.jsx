@@ -15,7 +15,7 @@ const Service = () => {
       <div className={`${layout} mt-10`}>
         <p className="text-4xl font-semibold  text-center text-primary mb-1">OUR SERVICES</p>
         <p className="text-red-500 font-bold text-center mb-8">
-          If you're having trouble opening the link below, please try clicking
+          If you are having trouble opening the link below, please try clicking
           it again from this location.
         </p>
         <div

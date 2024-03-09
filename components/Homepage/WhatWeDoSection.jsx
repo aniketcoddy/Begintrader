@@ -1,4 +1,10 @@
-import React from 'react'
+"use client";
+import Heading from "@/global/Heading";
+import Subheading from "@/global/Subheading";
+import { layout } from "@/utils/Classnames";
+import React from "react";
+import "../../app/globals.css";
+import { useInView } from "react-intersection-observer";
 
 const WhatWeDoSection = () => {
 
