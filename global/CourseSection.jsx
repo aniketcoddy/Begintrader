@@ -1,4 +1,9 @@
-import React from 'react'
+"use client";
+import { layout } from "@/utils/Classnames";
+import React from "react";
+import check from "../utils/svg/check.svg";
+import Image from "next/image";
+import { useInView } from "react-intersection-observer";
 
 const CourseSection = ({
     heading,
